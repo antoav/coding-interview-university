@@ -204,9 +204,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
-- C++
-[x] Java
-- Python
+ C++
+- [x] Java
+ Python
 
 You could also use these, but read around first. There may be caveats:
 
