@@ -178,7 +178,8 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## Interview Process & General Interview Prep
 
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) 
+	"Given that tech firms will err on the side of not hiring (wanting to avoid false-positives), you want to stack the odds in your favor and give them no doubts. "
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
@@ -204,9 +205,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
- C++
+- [ ] C++
 - [x] Java
- Python
+- [ ] Python
 
 You could also use these, but read around first. There may be caveats:
 
@@ -308,6 +309,16 @@ through my notes and making flashcards, so I could review.
 Please, read so you won't make my mistakes:
 
 [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
+	"What I should have done for each topic:
+
+	- watch a couple of hours of videos on the topic, to get the main idea
+	- implement the algorithms and data structures
+	- make flash cards for important things I should remember about the topic
+	- move on to the next topic
+	- review the flash cards when you have time
+	- after a few days, watch another video about the topic, perhaps 30 mins or so
+	- after another week, watch a video about the topic, maybe same video or shorter one
+	- keep reviewing flash cards"
 
 A course recommended to me (haven't taken it): [Learning how to Learn](https://www.coursera.org/learn/learning-how-to-learn).
 
